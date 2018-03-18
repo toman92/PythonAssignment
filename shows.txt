@@ -1,0 +1,5 @@
+Vertigo,2030,2230,Friday,2
+
+Die Fiedermaus,1700,1900,Saturday,4
+
+Under The Influence,1400,1615,Sunday,3
